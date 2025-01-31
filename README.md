@@ -1,5 +1,5 @@
 ## About Me
-  Hi My name is Wuttichai. Since I 2024 I have been studying and practicing to become a QA. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through self-study. it will inclde both manual and automation skill
+  Hi My name is Wuttichai. Since 2024 I have been studying and practicing to become a QA. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through self-study. it will inclde both manual and automation skill
 
 
 
