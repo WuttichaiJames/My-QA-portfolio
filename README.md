@@ -25,4 +25,4 @@
 ### TestCases
 - Test cases for checking Login Page for [Facebook](https://docs.google.com/spreadsheets/d/1mYp9_YKcScOt18hpGlqdhqB6SbbiLaMl/edit?gid=20547850#gid=20547850)
 
-- T
+- Test cases for Product Page and E2E for [Polymer](https://docs.google.com/spreadsheets/d/1HER2XHlkQI1pQuRlYmXyGUaDq4nRQQWk/edit?usp=sharing&ouid=107738929574529401562&rtpof=true&sd=true)
