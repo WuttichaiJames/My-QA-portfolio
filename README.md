@@ -27,5 +27,5 @@
 
 - Test cases Product Page and E2E for [Polymer](https://docs.google.com/spreadsheets/d/1HER2XHlkQI1pQuRlYmXyGUaDq4nRQQWk/edit?usp=sharing&ouid=107738929574529401562&rtpof=true&sd=true)
 
-- Test Case for [Swang Labs](https://docs.google.com/spreadsheets/d/1CnxaFTiKwXiySGx8tG_0QcLS5xdvLp4e/edit?usp=sharing&ouid=107738929574529401562&rtpof=true&sd=true)
+- Test cases for [Swang Labs](https://docs.google.com/spreadsheets/d/1CnxaFTiKwXiySGx8tG_0QcLS5xdvLp4e/edit?usp=sharing&ouid=107738929574529401562&rtpof=true&sd=true)
   - [Test Script](https://github.com/WuttichaiJames/My-QA-portfolio/tree/main/AutomationTest/AutomationSwagLabs) for Automation Test (Robot Framework Selenium)
